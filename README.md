@@ -1,2 +1,2 @@
 # text-classifier-web
-Text Classifier on Java with web interface
+Text Classifier (Naive Bayes) on Java with web interface
